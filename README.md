@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+<!-- ![Static Badge](https://img.shields.io/badge/37hcp-yellow) -->
+
 <!--
 **Hruthik2006/Hruthik2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
